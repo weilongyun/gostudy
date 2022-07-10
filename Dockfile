@@ -1,0 +1,5 @@
+FROM alpine:latest
+COPY main /app/
+WORKDIR /app/
+ENTRYPOINT ["./main"]
+EXPOSE 80
