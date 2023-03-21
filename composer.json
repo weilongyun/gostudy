@@ -1,14 +1,14 @@
 {
-    "name": "weilongyun1760077920/composer_demo01",
-    "description": "Publicdemo01 composer study",
-    "type": "project",
-    "license": "mit",
-    "authors": [
-        {
-            "name": "weilongyun",
-            "email": "weilongyun@360.cn"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
-}
+        "name": "weilongyun1760077920/composer_demo01",
+        "description": "A short description of what your package does", // 扩展简介
+        "require": {
+            "php": "^7.2", //必须的版本
+        }，
+        "authors": [   // 作者联系地址
+              {
+                "name": "name",
+                "email": "name@163.com"
+              }       
+        ],
+        "license": "MIT"， // 主要解决在上传到Packagist后网站出现There is no license information available for the latest version (dev-master)警告
+ }
