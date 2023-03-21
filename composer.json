@@ -1,0 +1,14 @@
+{
+    "name": "weilongyun1760077920/composer_demo01",
+    "description": "Publicdemo01 composer study",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "weilongyun",
+            "email": "weilongyun@360.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
